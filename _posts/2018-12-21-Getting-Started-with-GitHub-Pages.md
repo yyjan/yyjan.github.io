@@ -1,9 +1,9 @@
 ---
 layout: post
-title: GitHub Blog 시작 하기
+title: Getting Started with GitHub Pages, 블로그 만들기
 ---
 
-## Jekyll Now 로 빠르게 시작 하는 법
+블로그 Jekyll Now 로 빠르게 시작 하는 법!
 
 ![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
@@ -49,5 +49,6 @@ about.md : 웹사이트의 정보
 
 
 ### 참고 하면 좋은글
+- [https://guides.github.com/features/pages/](https://guides.github.com/features/pages/)
 - [https://jamiekang.github.io/2017/04/28/blogging-on-github-with-jekyll/](https://jamiekang.github.io/2017/04/28/blogging-on-github-with-jekyll/)
 - [http://jekyllrb-ko.github.io/](http://jekyllrb-ko.github.io/)

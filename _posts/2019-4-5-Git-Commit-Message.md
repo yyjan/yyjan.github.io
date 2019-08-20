@@ -118,5 +118,5 @@ Github 저장소의 default branch를 `master`로 설정해뒀을 경우, `maste
 
 - [Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
 
-
+- [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 
